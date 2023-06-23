@@ -6,7 +6,7 @@
 
 int main()
 {
-
+    printf("ALo");
     return 0;
 }
 
